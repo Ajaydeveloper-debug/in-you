@@ -6,10 +6,6 @@
 
 A simple landing page for the E- commerce
 
-# React Project Title
-
-A simple description of what your React project is about.
-
 
 ## Installation
 
